@@ -11,33 +11,22 @@
 
 
 ## O projeto:
-Você foi encarregada de desenvolver uma landing page bonita e moderna para os clientes da imobibrasil. Nossos clientes são corretores de imóveis e precisam destacar imóveis para as suas campanhas do Google ads. Para este projeto você irá precisar criar uma tabela de imóveis e carregar as informações para o front-end.
-Aqui tem um exemplo de uma lading page que usamos hoje http://www.imobibrasil.net/hs/empreendimento-jardim-das-flores-6783
+Você foi encarregado(a) de desenvolver um novo modelo bonito e moderno para os clientes da imobibrasil. Nossos clientes são corretores de imóveis e precisam destacar imóveis para as suas campanhas do Google ads. Para este projeto você irá usar uma tabela de imóveis e carregar as informações para o front-end.
+Aqui tem um exemplo de uma página que usamos hoje https://admin01.imobibrasil.net/?par=OTAxNDM=&Mobile=1
 
 
-### Lading Page
+### modelo
 Abaixo os requisitos da funcionalidade:
 
-- Sua landing page pode ser inspirada em um modelo pronto de sites como o ThemeForest.
+- Seu modelo será inspirado em um tema pronto de sites como o ThemeForest.
 - Para este teste utilize somente frameworks de Front-end não reativos.
-- Utilize o nosso exemplo atual de landing page para mapear os campos e áreas que utilizamos.
+- Utilize o nosso exemplo atual de modelo para mapear os campos e áreas que utilizamos.
 - Campos que não existem na tabela imóvel podem ser inseridos direto no HTML.
+- Você irá criar 3 páginas: inicial, detalhes do imóvel e sobre-nós.
 
-### Imóveis
-Abaixo os requisitos da funcionalidade:
+### Inspirações
+- shreethemes.in/hously/layouts/index.html
+- https://tkpro-demo2.envalab.com/34/
 
-- Não é necessário criar a CRUD dos imóveis.
-- Você pode inserir manualmente as linhas na tabela pelo PHPmyAdmin.
-- Campos: Id, título do imóvel, descrição, preço e data do cadastro.
-
-### Tabela Fotos
-Abaixo os requisitos da funcionalidade:
-- A tabela fotos também não requer a criação de CRUD.
-- O relacionamento com a tabela imóveis será 1:N (um para muitos)
-- Você pode inserir manualmente as linhas pelo PHPmyAdmin.
-- Quanto aos arquivos de fotos você pode fazer o upload manulmente pelo FTP.
-- Campos: Id, Id_imovel, nome_arquivo, ordem
-
-## Tabelas necessárias:
+## Tabelas Utilizadas:
 - imoveis
-- fotos
