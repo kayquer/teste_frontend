@@ -26,7 +26,7 @@ Abaixo os requisitos da funcionalidade:
 
 ### Inspirações
 - shreethemes.in/hously/layouts/index.html
-- https://tkpro-demo2.envalab.com/34/
+- tkpro-demo2.envalab.com/34/
 
 ## Tabelas Utilizadas:
 - imoveis
